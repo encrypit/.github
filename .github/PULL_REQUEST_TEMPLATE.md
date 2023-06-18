@@ -23,6 +23,7 @@ To check an item, place an "x" in the box like so: `- [x] Tests`
 
 - [ ] [Conventional Commits](https://www.conventionalcommits.org/)
 - [ ] Tests
+- [ ] Documentation
 
 <!--
 Any other comments? Thank you for contributing!
