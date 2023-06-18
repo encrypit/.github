@@ -1,3 +1,3 @@
 # Overview
 
-Encrypit's GitHub templates and configurations
+Encrypit's GitHub templates and configs.
